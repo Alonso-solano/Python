@@ -1,5 +1,13 @@
 # Python
 
+1. if, elif, else
+2. for - in, for - range()
+3. def (funciones)
+4. while
+5. print, input, int, float
+6. list, tuplas, diccionarios
+7. POO / OOP - Pogramación Orientada a Objetos / Object Oriented Programming
+
 
 # print vs input
 
